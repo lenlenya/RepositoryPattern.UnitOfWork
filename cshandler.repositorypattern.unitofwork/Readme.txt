@@ -1,9 +1,4 @@
-RepositoryPattern.UnitOfWork
-============================
-
-Base framework for implementing Repository pattern and Unit of work with EF 5.0.0
-
-V1.0
+﻿Base framework for creating Repository pattern and Unit of work - V1.0
 
 ============================
 Assemblies:
